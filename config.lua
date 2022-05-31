@@ -1024,7 +1024,7 @@ Config.Locations = {
 
     ["casinobar"] = {
         ["label"] = "Casino Bar",
-        ["coords"] = vector4(937.45, 27.22, 71.83, 61.21),
+        ["coords"] = vector4(978.1, 24.11, 71.46, 76.11),
         ["ped"] = 'a_m_y_smartcaspat_01',
         ["scenario"] = "WORLD_HUMAN_VALET",
         ["radius"] = 2.5,
