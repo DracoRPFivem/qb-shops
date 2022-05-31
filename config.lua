@@ -1010,7 +1010,7 @@ Config.Locations = {
     -- Casino Locations
     ["casino"] = {
         ["label"] = "Diamond Casino",
-        ["coords"] = vector4(918.04, 50.97, 80.9, 234.36),
+        ["coords"] = vector4(990.46, 29.94, 71.47, 80.69),
         ["ped"] = 'csb_tomcasino',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
         ["radius"] = 2.5,
