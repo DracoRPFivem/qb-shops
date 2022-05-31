@@ -654,7 +654,7 @@ Config.Locations = {
 
     ["247supermarket10"] = {
         ["label"] = "24/7 Supermarket",
-        ["coords"] = vector4(814.4, -782.19, 26.17, 87.08),
+        ["coords"] = vector4(812.52, -782.01, 26.17, 275.78),
         ["ped"] = 'mp_m_shopkeep_01',
         ["scenario"] = "WORLD_HUMAN_STAND_MOBILE",
         ["radius"] = 2.5,
