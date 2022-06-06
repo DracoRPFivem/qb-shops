@@ -2,8 +2,8 @@ Config = {}
 Config.UseTarget = GetConvar('UseTarget', 'false') == 'true' -- Use qb-target interactions (don't change this, go to your server.cfg and add `setr UseTarget true` to use this and just that from true to false or the other way around)
 
 Config.SellCasinoChips = {
-    coords = vector4(950.37, 34.72, 71.87, 33.82),
-    radius = 1.5,
+    coords = vector4(991.83, 31.94, 71.47, 40.56),
+    radius = 2.5,
     ped = 's_m_y_casino_01'
 }
 
@@ -112,38 +112,6 @@ Config.Products = {
             info = {},
             type = "item",
             slot = 13,
-        },
-        [14] = {
-            name = "vanillaicecream",
-            price = 10,
-            amount = 200,
-            info = {},
-            type = "item",
-            slot = 14,
-        },
-        [15] = {
-            name = "chocolateicecream",
-            price = 10,
-            amount = 200,
-            info = {},
-            type = "item",
-            slot = 15,
-        },
-        [16] = {
-            name = "minticecream",
-            price = 10,
-            amount = 200,
-            info = {},
-            type = "item",
-            slot = 16,
-        },
-        [17] = {
-            name = "cookiesandcreamicecream",
-            price = 10,
-            amount = 200,
-            info = {},
-            type = "item",
-            slot = 17,
         },
     },
     ["liquor"] = {
